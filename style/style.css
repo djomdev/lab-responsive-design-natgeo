@@ -1,0 +1,31 @@
+* {
+  outline: 1px solid red; }
+
+.box__ {
+  width: 350px;
+  height: auto; }
+
+.logong {
+  width: 150px;
+  height: auto; }
+
+.box__cameras-photo {
+  width: 350px;
+  height: auto; }
+
+.box__supermoon-photo {
+  width: 350px;
+  height: auto; }
+
+.box__monkeys-photo {
+  width: 350px;
+  height: auto; }
+
+.box__title {
+  font-family: 'Gill Sans', 'Century Gothic', sans-serif; }
+
+.box__socialmedia {
+  font-family: 'Gill Sans', 'Century Gothic', sans-serif;
+  font-weight: lighter;
+  color: #ffffff;
+  background-color: #333; }
